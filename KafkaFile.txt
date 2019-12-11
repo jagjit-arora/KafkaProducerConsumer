@@ -13,3 +13,5 @@ consumer:
 
 Describe topics
 .\bin\windows\kafka-topics.bat --describe --zookeeper localhost:2181 --topic demo-topic
+
+https://hackernoon.com/how-to-query-jsonb-beginner-sheet-cheat-4da3aa5082a3
